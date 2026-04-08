@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a Data Scientist & Analytics Engineer passionate about turning raw data into clear, actionable insights. I build reliable data pipelines, design scalable analytics solutions, and develop machine learning models that solve real-world problems.<br>🔧 Tech I work with: Python · SQL · pandas · scikit‑learn · matplotlib · YOLO · Data Quality · BI<br>📊 I love: clean data, reproducible analytics, and meaningful visualizations<br>🤝 I thrive in collaborative, fast‑moving environments where data drives decisions
+I’m a Data Scientist & AI Engineer passionate about turning raw data into clear, actionable insights. I build reliable data pipelines, design scalable analytics solutions, and develop machine learning models that solve real-world problems.<br>🔧 Tech I work with: Python · SQL · pandas · scikit‑learn · matplotlib · YOLO · Data Quality · BI<br>📊 I love: clean data, reproducible analytics, and meaningful visualizations<br>🤝 I thrive in collaborative, fast‑moving environments where data drives decisions
 
 
 # 💻 Tech Stack:
